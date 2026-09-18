@@ -3,8 +3,8 @@
 
 module.exports = {
 
-    BOT_NAME: 'Melon',
-    BOT_TOKEN: 'MTM5MDY2Mzg3NzU0NDUwOTU4MA.GygZd0.uFaM4y32MfuyhMyxi5mhIlRWQQYkxYfQe_04qE',
+    BOT_NAME: 'ZyroX',
+    BOT_TOKEN: process.env.BOT_TOKEN,
     CLIENT_ID: '1390663877544509580',
     OWNER_ID: '1124248109472550993', // owner-only commands
 
