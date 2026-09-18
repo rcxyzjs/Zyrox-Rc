@@ -12,7 +12,7 @@ module.exports = {
 
     STATUS: {
         status: 'idle', // online / idle / dnd / invisible
-        activity: ',help | Made by Rc
+        activity: ',help | Made by Rc',
     },
 
     SUPPORT_SERVER: 'https://discord.gg/nukers',
