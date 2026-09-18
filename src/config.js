@@ -15,7 +15,7 @@ module.exports = {
         activity: ',help | Made by Rc
     },
 
-    SUPPORT_SERVER: 'https://discord.gg/aerox',
+    SUPPORT_SERVER: 'https://discord.gg/nukers',
 
     DATABASE_URL: process.env.DATABASE_URL || 'postgresql://neondb_owner:npg_0sb7MUxrtugy@ep-little-water-adb9fuko.c-2.us-east-1.aws.neon.tech/neondb?sslmode=require',
 
