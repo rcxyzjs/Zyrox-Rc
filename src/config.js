@@ -1,5 +1,5 @@
-// © Author: itsfizys
-// https://discord.gg/zWT89xRZM8
+// © Author: Rc
+// https://discord.gg/nukers
 
 module.exports = {
 
@@ -12,7 +12,7 @@ module.exports = {
 
     STATUS: {
         status: 'idle', // online / idle / dnd / invisible
-        activity: '.help | @Melon >3'
+        activity: ',help | Made by Rc
     },
 
     SUPPORT_SERVER: 'https://discord.gg/aerox',
@@ -83,10 +83,10 @@ CRITICAL - DO NOT DO THESE:
 };
 
 /**
- * Project: Melon
- * Author: itsfizys (Aegis)
- * Organization: AeroX Development
- * GitHub: https://github.com/itsfizys
+ * Project: ZyroX
+ * Author: Rc
+ * Organization: ZyroX Development
+ * GitHub: https://github.com/devrc.xyz
  * License: Custom
- * © 2026 AeroX Development. All rights reserved.
+ * © 2026 ZyroX Development. All rights reserved.
  */
