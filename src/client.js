@@ -169,10 +169,8 @@ process.on('uncaughtException', (error) => {
     let savedHash = null;
     try { savedHash = fs.readFileSync(COMMAND_HASH_FILE, 'utf8').trim(); } catch (_) {}
 
-    if (savedHash === currentHash) {
-      printInfo('Slash commands unchanged — skipping registration');
-      return;
-    }
+
+    
 
     const rest = new REST({ version: '10' }).setToken(config.BOT_TOKEN);
     await rest.put(Routes.applicationCommands(config.CLIENT_ID), { body: commands });
