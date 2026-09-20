@@ -15,7 +15,7 @@ module.exports = {
         activity: ',help | Made by Rc',
     },
 
-    SUPPORT_SERVER: 'https://discord.gg/nukers',
+    SUPPORT_SERVER: 'https://discord.gg/4SGMuU9bhQ',
 
     DATABASE_URL: process.env.DATABASE_URL || 'postgresql://neondb_owner:npg_0sb7MUxrtugy@ep-little-water-adb9fuko.c-2.us-east-1.aws.neon.tech/neondb?sslmode=require',
 
@@ -29,7 +29,7 @@ module.exports = {
 
     AI_PROMPTS: {
 
-        SYSTEM_PROMPT: `You are Melon, a helpful and intelligent AI assistant created by itsfizys.
+        SYSTEM_PROMPT: `You are ZyroX , a helpful and intelligent AI assistant created by Rc.
 
 IDENTITY (CRITICAL - Never break these rules):
 - Your name is Melon. You were created by itsfizys.
