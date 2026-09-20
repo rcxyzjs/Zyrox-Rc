@@ -11,10 +11,10 @@ module.exports = {
 };
 
 /**
- * Project: Melon
- * Author: itsfizys (Aegis)
- * Organization: AeroX Development
- * GitHub: https://github.com/itsfizys
+ * Project: ZyroX
+ * Author : Rc
+ * Organization: ZyroX Development
+ * GitHub: https://github.com/devrc.xyz
  * License: Custom
  * © 2026 AeroX Development. All rights reserved.
  */
