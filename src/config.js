@@ -12,7 +12,7 @@ module.exports = {
 
     STATUS: {
         status: 'idle', // online / idle / dnd / invisible
-        activity: ',help | Made by Rc',
+        activity: ',help | Fastest Than Light',
     },
 
     SUPPORT_SERVER: 'https://discord.gg/4SGMuU9bhQ',
