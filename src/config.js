@@ -1,5 +1,5 @@
 // © Author: Rc
-// https://discord.gg/nukers
+// https://discord.gg/4SGMuU9bhQ
 
 module.exports = {
 
