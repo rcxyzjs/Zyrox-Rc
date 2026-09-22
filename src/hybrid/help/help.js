@@ -90,12 +90,8 @@ const categories = {
             'bow', 'salute', 'facepalm', 'shrug', 'sleep', 'eat', 'kill', 'run'
         ]
     },
-    social: {
-        name: 'Social',
-        description: 'Social media, web search & crypto',
-        catEmoji: 'cat_social',
-        commands: ['youtube', 'github', 'wikipedia', 'news', 'google', 'ping', 'crypto balance', 'crypto price', 'crypto convert', 'crypto transaction', 'crypto news', 'crypto gainers', 'crypto losers']
-    },
+
+
     utility: {
         name: 'Utility',
         description: 'Conversions, files, to-do & ignore',
@@ -122,12 +118,7 @@ const extraCategories = {
         description: 'Automatic vanity URL role rewards',
         catEmoji: 'cat_vanityroles',
         commands: ['vanity setup', 'vanity config', 'vanity reset']
-    },
-    feedback: {
-        name: 'Feedback',
-        description: 'Feedback panel & submission system',
-        catEmoji: 'cat_feedback',
-        commands: ['feedback setup', 'feedback panel', 'feedback config', 'feedback reset']
+    
     },
     j2c: {
         name: 'Join2Create',
@@ -152,12 +143,7 @@ const extraCategories = {
         description: 'Media-only channels & profile pics',
         catEmoji: 'cat_media',
         commands: ['pfp anime', 'pfp male', 'pfp female', 'media setup', 'media remove', 'media config', 'media bypass add', 'media bypass remove', 'media bypass show']
-    },
-    misc: {
-        name: 'Misc',
-        description: 'Calculator, AFK, matrix & more',
-        catEmoji: 'cat_misc',
-        commands: ['calc', 'define', 'matrix', 'size', 'afk']
+   
     },
     tracking: {
         name: 'Tracking',
