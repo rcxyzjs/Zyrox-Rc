@@ -8,7 +8,7 @@ module.exports = {
     CLIENT_ID: process.env.CLIENT_ID,
     OWNER_ID: '1510291022578716903', // owner-only commands
 
-    PREFIX: ',', // default text command prefix
+    PREFIX: '&', // default text command prefix
 
     STATUS: {
         status: 'dnd', // online / idle / dnd / invisible
