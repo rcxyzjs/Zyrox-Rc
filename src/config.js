@@ -5,13 +5,13 @@ module.exports = {
 
     BOT_NAME: 'ZyroX',
     BOT_TOKEN: process.env.BOT_TOKEN,
-    CLIENT_ID: '1390663877544509580',
+    CLIENT_ID: process.env.CLIENT_ID,'
     OWNER_ID: '1510291022578716903', // owner-only commands
 
     PREFIX: ',', // default text command prefix
 
     STATUS: {
-        status: 'idle', // online / idle / dnd / invisible
+        status: 'dnd', // online / idle / dnd / invisible
         activity: ',help | Fastest Than Light',
     },
 
