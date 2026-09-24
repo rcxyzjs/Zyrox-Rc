@@ -6,7 +6,7 @@ module.exports = {
     BOT_NAME: 'ZyroX',
     BOT_TOKEN: process.env.BOT_TOKEN,
     CLIENT_ID: process.env.CLIENT_ID,
-    OWNER_ID: '1510291022578716903', // owner-only commands
+    OWNER_ID: '1068553767504588911', // owner-only commands
 
     PREFIX: '&', // default text command prefix
 
