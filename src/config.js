@@ -15,7 +15,7 @@ module.exports = {
 
     STATUS: {
         status: 'dnd', // online / idle / dnd / invisible
-        activity: ',help | Fastest Than Light',
+        activity: '&help | Pownerd By ZyroX Dev',
     },
 
     SUPPORT_SERVER: 'https://discord.gg/4SGMuU9bhQ',
