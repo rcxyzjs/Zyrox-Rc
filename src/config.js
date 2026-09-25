@@ -6,11 +6,8 @@ module.exports = {
     BOT_NAME: 'ZyroX',
     BOT_TOKEN: process.env.BOT_TOKEN,
     CLIENT_ID: process.env.CLIENT_ID,
-    OWNER_IDS: [
-  '1068553767504588911',
-  '1372858321941299231'
-], // owner-only commands
-
+    OWNER_ID: '1068553767504588911', // owner-only commands
+    OWNER_ID: '1372858321941299231', // owner-only commands
     PREFIX: '&', // default text command prefix
 
     STATUS: {
@@ -18,7 +15,7 @@ module.exports = {
         activity: '&help | Pownerd By ZyroX Dev',
     },
 
-    SUPPORT_SERVER: 'https://discord.gg/4SGMuU9bhQ',
+    SUPPORT_SERVER: 'https://discord.gg/uKd9m5wrMC',
 
     DATABASE_URL: process.env.DATABASE_URL || 'postgresql://neondb_owner:npg_0sb7MUxrtugy@ep-little-water-adb9fuko.c-2.us-east-1.aws.neon.tech/neondb?sslmode=require',
 
